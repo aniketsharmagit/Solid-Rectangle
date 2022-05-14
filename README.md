@@ -1,2 +1,2 @@
-# Solid-Rectangle
-Pattern Formation using JAVA
+# PATTERN FORMATION 
+Solid Reactangle using JAVA
